@@ -91,7 +91,7 @@ h1 {
     height: auto;
 }
 main {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.253);
 }
 footer {
     margin: 0;
